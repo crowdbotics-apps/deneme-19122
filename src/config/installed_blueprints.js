@@ -8,7 +8,6 @@ export const installed_blueprints = [
 { name: 'ArticleList83776', human_name: 'Article List', access_route: 'ArticleList83776'},
 { name: 'ArticleList83759', human_name: 'Article List', access_route: 'ArticleList83759'},
 { name: 'ArticleList83758', human_name: 'Article List', access_route: 'ArticleList83758'},
-{ name: 'ArticleList83757', human_name: 'Article List', access_route: 'ArticleList83757'},
 { name: 'ArticleList483753', human_name: 'Article List 4', access_route: 'ArticleList483753'},
 
   // you can add more installed blueprints here
